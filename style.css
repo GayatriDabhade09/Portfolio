@@ -77,7 +77,7 @@
   nav [class*="fa-"]:hover {
     color: var(--magenta);
   }
-  .button {
+  /* .button {
     background-color: var(--magenta);
     color: white;
     padding: 0.5rem;
@@ -88,7 +88,7 @@
   .button:hover {
     color: white;
     background-color: var(--hotmag);
-  }
+  } */
   @media (min-width: 850px) {
     nav {
       max-width: 1200px;
